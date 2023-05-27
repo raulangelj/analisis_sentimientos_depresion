@@ -221,8 +221,8 @@ finetuning_task:
 id2label:
   desc: null
   value:
-    '0': LABEL_0
-    '1': LABEL_1
+    '0': negative
+    '1': positive
 label2id:
   desc: null
   value:
@@ -401,7 +401,7 @@ log_on_each_node:
   value: true
 logging_dir:
   desc: null
-  value: raulangelj/huggingface_sentiment_analysis\runs\May26_21-39-29_RAUL_ANGEL
+  value: raulangelj/huggingface_sentiment_analysis\runs\May26_22-05-42_RAUL_ANGEL
 logging_strategy:
   desc: null
   value: steps
