@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.11",
+    "heartbeatAt": "2023-05-27T03:49:20.626294",
+    "startedAt": "2023-05-27T03:49:19.441199",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "git@github.com:raulangelj/analisis_sentimientos_depresion.git",
+        "commit": "afd6c90d3852f8beb1086ea34d3b00772cea4cd0"
+    },
+    "email": "raulangelj@gmail.com",
+    "root": "C:/Users/raula/Documents/RAUL_ANGEL/UVG_COMPU/NOVENO_SEMESTRE/DISENO-E-INOVACION/analisis_sentimientos_depresion",
+    "host": "RAUL_ANGEL",
+    "username": "raula",
+    "executable": "C:\\Users\\raula\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2592.0,
+        "min": 0.0,
+        "max": 2592.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 2592.0
+        }
+    ],
+    "disk": {
+        "total": 458.02343368530273,
+        "used": 439.2221374511719
+    },
+    "gpu": "NVIDIA GeForce RTX 2060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2060",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.767597198486328
+    }
+}
